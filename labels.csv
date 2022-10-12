@@ -1,0 +1,139 @@
+issue_repo_url,issue_id,issue_number,label_id,label
+https://api.github.com/repos/mozilla-mobile/fenix,1395329641,27258,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1395329641,27258,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1395239911,27257,2418506059,needs:review
+https://api.github.com/repos/mozilla-mobile/fenix,1394820092,27253,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1394820092,27253,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1394820092,27253,1292404228,Feature:Onboarding
+https://api.github.com/repos/mozilla-mobile/fenix,1394820092,27253,1447093575,S3
+https://api.github.com/repos/mozilla-mobile/fenix,1394820092,27253,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1394408143,27252,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1394408143,27252,3742918669,Needs-UX
+https://api.github.com/repos/mozilla-mobile/fenix,1394378485,27251,2108375705,eng:ui-test
+https://api.github.com/repos/mozilla-mobile/fenix,1394378485,27251,2418506059,needs:review
+https://api.github.com/repos/mozilla-mobile/fenix,1393999914,27249,877027717,feature request 🌟
+https://api.github.com/repos/mozilla-mobile/fenix,1393999914,27249,1554658700,Feature:WebExtensions
+https://api.github.com/repos/mozilla-mobile/fenix,1393999914,27249,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1393833232,27245,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1393800436,27244,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1393572799,27241,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1393572799,27241,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1393572202,27240,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1393572202,27240,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1393559918,27239,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1393559918,27239,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1393483699,27238,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1393483699,27238,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1392880652,27233,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1392880652,27233,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1392505678,27230,1242056302,Feature:HomeScreen
+https://api.github.com/repos/mozilla-mobile/fenix,1392505678,27230,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1392494159,27229,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1392194096,27228,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1392194096,27228,1298394339,Feature:SitePermissions
+https://api.github.com/repos/mozilla-mobile/fenix,1392194096,27228,1447093420,S2
+https://api.github.com/repos/mozilla-mobile/fenix,1392194096,27228,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1391070720,27223,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1391070720,27223,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1391070720,27223,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390928236,27221,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1390928236,27221,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390893204,27220,1662005997,eng:intermittent-test
+https://api.github.com/repos/mozilla-mobile/fenix,1390893204,27220,2108375705,eng:ui-test
+https://api.github.com/repos/mozilla-mobile/fenix,1390756023,27219,877027717,feature request 🌟
+https://api.github.com/repos/mozilla-mobile/fenix,1390756023,27219,1292404228,Feature:Onboarding
+https://api.github.com/repos/mozilla-mobile/fenix,1390756023,27219,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390756023,27219,3742918669,Needs-UX
+https://api.github.com/repos/mozilla-mobile/fenix,1390533632,27217,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1390533632,27217,1337549869,Feature:MainMenu
+https://api.github.com/repos/mozilla-mobile/fenix,1390533632,27217,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390297689,27216,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1390297689,27216,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390248567,27215,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1390248567,27215,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390115561,27212,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1390115561,27212,3017132747,Android:12
+https://api.github.com/repos/mozilla-mobile/fenix,1390072814,27210,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1390070496,27209,1251819281,eng:qa:needed
+https://api.github.com/repos/mozilla-mobile/fenix,1390009674,27208,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1390009674,27208,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1389234838,27206,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1389234838,27206,2108375705,eng:ui-test
+https://api.github.com/repos/mozilla-mobile/fenix,1389074852,27205,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1389074852,27205,2108375705,eng:ui-test
+https://api.github.com/repos/mozilla-mobile/fenix,1388642663,27201,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1388425283,27198,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1388425283,27198,1447093575,S3
+https://api.github.com/repos/mozilla-mobile/fenix,1388425283,27198,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1388425283,27198,2788398555,qa-triaged
+https://api.github.com/repos/mozilla-mobile/fenix,1388421252,27197,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1388306906,27196,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1387955115,27195,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1387951519,27194,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1387661236,27192,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1387599029,27190,1662005997,eng:intermittent-test
+https://api.github.com/repos/mozilla-mobile/fenix,1387599029,27190,2108375705,eng:ui-test
+https://api.github.com/repos/mozilla-mobile/fenix,1387471339,27189,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1387458499,27188,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1386462146,27185,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1386462146,27185,2426124867,pr:approved
+https://api.github.com/repos/mozilla-mobile/fenix,1386451521,27184,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1386451521,27184,2426124867,pr:approved
+https://api.github.com/repos/mozilla-mobile/fenix,1386432741,27182,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386432741,27182,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386432741,27182,4322589367,eng:reopen-for-qa
+https://api.github.com/repos/mozilla-mobile/fenix,1386416931,27181,2634667657,conflicts
+https://api.github.com/repos/mozilla-mobile/fenix,1386416613,27180,2634667657,conflicts
+https://api.github.com/repos/mozilla-mobile/fenix,1386267090,27179,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386267090,27179,1242046471,Feature:History
+https://api.github.com/repos/mozilla-mobile/fenix,1386267090,27179,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1386267090,27179,1447093575,S3
+https://api.github.com/repos/mozilla-mobile/fenix,1386267090,27179,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386240371,27178,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386240371,27178,1242056302,Feature:HomeScreen
+https://api.github.com/repos/mozilla-mobile/fenix,1386240371,27178,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386240371,27178,2549203102,S4
+https://api.github.com/repos/mozilla-mobile/fenix,1386240371,27178,3639459477,Feature:Wallpapers
+https://api.github.com/repos/mozilla-mobile/fenix,1386236797,27177,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386236797,27177,1298394339,Feature:SitePermissions
+https://api.github.com/repos/mozilla-mobile/fenix,1386236797,27177,1447093420,S2
+https://api.github.com/repos/mozilla-mobile/fenix,1386236797,27177,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386230890,27176,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386230890,27176,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1386230890,27176,1264211904,Feature:Bookmarks
+https://api.github.com/repos/mozilla-mobile/fenix,1386230890,27176,1447093575,S3
+https://api.github.com/repos/mozilla-mobile/fenix,1386230890,27176,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386220429,27174,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1386220429,27174,2108375705,eng:ui-test
+https://api.github.com/repos/mozilla-mobile/fenix,1386205907,27173,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386205907,27173,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1386205907,27173,1264211904,Feature:Bookmarks
+https://api.github.com/repos/mozilla-mobile/fenix,1386205907,27173,1447093575,S3
+https://api.github.com/repos/mozilla-mobile/fenix,1386205907,27173,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386192663,27172,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386192663,27172,1224246696,eng:qa:verified
+https://api.github.com/repos/mozilla-mobile/fenix,1386192663,27172,1447093319,S1
+https://api.github.com/repos/mozilla-mobile/fenix,1386192663,27172,2128291521,Feature:SyncTabs
+https://api.github.com/repos/mozilla-mobile/fenix,1386192663,27172,3844302925,TaskContinuity
+https://api.github.com/repos/mozilla-mobile/fenix,1386063682,27171,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1386063682,27171,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1386063682,27171,1576154697,Feature:Logins
+https://api.github.com/repos/mozilla-mobile/fenix,1386063682,27171,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1386063682,27171,2549203102,S4
+https://api.github.com/repos/mozilla-mobile/fenix,1385924420,27170,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1385924420,27170,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1385924420,27170,1298366359,Feature:Search
+https://api.github.com/repos/mozilla-mobile/fenix,1385924420,27170,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1385924420,27170,2549203102,S4
+https://api.github.com/repos/mozilla-mobile/fenix,1385843171,27169,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1385843171,27169,1242056302,Feature:HomeScreen
+https://api.github.com/repos/mozilla-mobile/fenix,1385843171,27169,1242067522,access
+https://api.github.com/repos/mozilla-mobile/fenix,1385843171,27169,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1385843171,27169,2549203102,S4
+https://api.github.com/repos/mozilla-mobile/fenix,1385632619,27168,1528415926,pr:needs-landing
+https://api.github.com/repos/mozilla-mobile/fenix,1385189420,27164,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1385189420,27164,2788398555,qa-triaged
+https://api.github.com/repos/mozilla-mobile/fenix,1385150669,27163,875862810,🐞 bug
+https://api.github.com/repos/mozilla-mobile/fenix,1385150669,27163,2788398555,qa-triaged
+https://api.github.com/repos/mozilla-mobile/fenix,1385031259,27161,1761061437,needs:triage
+https://api.github.com/repos/mozilla-mobile/fenix,1384938284,27160,1761061437,needs:triage
