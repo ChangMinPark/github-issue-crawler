@@ -17,7 +17,7 @@ In **_config.py_** file, a user can configure settings such as keywords to searc
 
 3. Results
 By default, the results are stored under **_out/_** directgory, and here are details of the results:
-
+```
     out/
     ├── ...
     ├── repo_name/
@@ -27,9 +27,10 @@ By default, the results are stored under **_out/_** directgory, and here are det
     │   │   ├── 1001
     │   │   ├── ...
     │   │   └── 203 
-    │   └── pull_requests\
+    │   └── pull_requests/
     │       ├── 1002
     │       ├── ...
     │       └── 135 
     └── ...
+```
 
